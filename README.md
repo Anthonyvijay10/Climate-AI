@@ -19,8 +19,9 @@ In the very ancient times, people developed weather prediction methods based on 
 
 **SOURCES**
 
-1. [Optimizing climate models with AI](![image](https://github.com/user-attachments/assets/0722bbe9-9dc3-4726-be5f-a55e2a1c36cc))
-2. 
+1. [Foundation Models for Weather and Climate Data Understanding: A Comprehensive Survey](https://arxiv.org/html/2312.03014v1)
+2. [AI Foundation Models for Weather and Climate: Applications, Design, and Implementation](https://arxiv.org/abs/2309.10808)
+3. [Interpretable Machine Learning for Weather and Climate Prediction: A Survey](https://arxiv.org/html/2403.18864v1)
 
 
 

@@ -7,12 +7,14 @@ Created a fast-running AI model of the Earth’s climate that runs on a laptop o
 TEAM MEMBER 1:
 
 Full name: Hashmitha Sugumar
+
 Womanium Program Enrollment ID: WQ24-yA5BlnnHSFSfCLy
 
 TEAM MEMBER 2:
 
 Full name: Anthony Vijay M
-Womanium Program Enrollment ID: 
+
+Womanium Program Enrollment ID: WQ24-2dlGlzr4asYPlpN
 
 
 **PROBLEM STATEMENT**:
@@ -29,7 +31,7 @@ As we know, developing a fast-running AI climate model that can run on a laptop 
 
 In the very ancient times, people developed weather prediction methods based on careful observation of natural phenomena. The Babylonians, who lived in Mesopotamia from the 18th to the 6th century BCE, could track the movements of celestial bodies. They believed that the positions of stars and planets could help predict weather patterns. Several methods and technologies have been explored to create fast-running AI models of Earth's climate like the traditional statistical models, simplified physical models, and more recently, machine learning and AI-based approaches. Statistical models are generally simpler to implement and require less computational power compared to complex physical models. These models can run quickly on standard computers because they do not involve solving complex equations.However these models heavily depend on the quality and quantity of historical data. They might struggle to predict future conditions if the climate system behaves in a non-linear or unprecedented way. Simplified physical models, such as energy balance models (EBMs) and reduced-complexity climate models (RCMs), use simplified representations of the climate system's physical processes.These models retain a physical basis, making their outputs more interpretable and scientifically grounded. However the necessary simplifications can lead to inaccuracies, especially for regional climate predictions or extreme events.
 
-This project involves the development of a regression AI model designed to predict climatic conditions across various regions of the Earth based on the concentration of atmospheric gases. The model employs a Random Forest Regression algorithm trained on historical climate data, ensuring robust and accurate predictions. By integrating this algorithm with a Flask-based web application, the project achieves a high level of efficiency and cost-effectiveness, delivering rapid predictions. The accuracy of the model is notably high, providing reliable climate forecasts that can be utilized for various applications. This web-based solution demonstrates the potential of advanced machine learning techniques in addressing complex environmental challenges.
+This project involves the development of a regression AI model designed to predict climate conditions across various regions of the Earth based on the concentration of atmospheric gases. The model employs a Linear Regression algorithm trained on historical climate data, ensuring robust and accurate predictions. By integrating this algorithm with a Flask-based web application, the project achieves a high level of efficiency and cost-effectiveness, delivering rapid predictions. The accuracy of the model is notably high, providing reliable climate forecasts that can be utilized for various applications. This web-based solution demonstrates the potential of advanced machine learning techniques in addressing complex environmental challenges.
 
 
 **SOURCES**
